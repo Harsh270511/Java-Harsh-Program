@@ -2,4 +2,4 @@
 
 This is my first gitRepo
 <br>
-Author - Harsh Maurya(Apna college)
+Author - Harsh Maurya
